@@ -1,0 +1,53 @@
+body
+	{
+		background-color: lightblue;
+	}
+
+h1
+	{
+		background-color: cyan;
+		font-family: 'Holtwood One SC', serif;
+		font-size: 100px
+		color: darkgreen;
+		border: solid;
+		border-color: #778899;
+		border-radius: 50px;
+	}
+
+h2
+	{
+		background-color: cyan;
+		font-family: 'Holtwood One SC', serif;
+		font-size: 50px
+		color: indianred;
+		border: solid;
+		border-color: #7B68EE;
+		border-radius: 50px;
+	}
+
+p
+	{
+		background-color: #9ACD32;
+		font-size: 30px
+		text-align: center;
+		color: white;
+		font-family: 'Merienda One', cursive;
+		padding: 15px;
+	}
+
+a:link, a:visited
+	{
+		background-color: darkgreen;
+		color: white;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 25px;
+		padding: 15px;
+	}
+
+a:hover, a:active
+	{
+		background-color: white;
+		color: black;
+	}
